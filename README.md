@@ -18,11 +18,11 @@ I'm a student and entrepreneur from Turkey. I'm mainly focused on web developmen
 
 ## Projects
 
-### Whatsapp Video Downloader UserBot
+### WPVDBOT (Whatsapp Video Downloader Bot)
 
 This is a whatsapp userbot that downloads videos from the links sent in the groupchat. It also has many other features that make it even better.
 
-[View Project](https://github.com/enessquik/whatsapp-video-bot)
+[View Project](https://github.com/enessquik/wpvdbot)
 
 ### Plaka Tanıma Turkey
 
