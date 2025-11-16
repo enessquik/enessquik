@@ -1,4 +1,4 @@
-# Hello 👋, I'm Enes
+# Hi👋, I'm Enes
 ### About Me
 
 I'm a student and programmer from Turkey. I'm mainly focused on web development. I am experienced in hosting management
