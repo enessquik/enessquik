@@ -1,10 +1,10 @@
 # Hello 👋, I'm Enes
-### Entrepreneur
+### About Me
 
-I'm a student and entrepreneur from Turkey. I'm mainly focused on web development. I managed a hosting firm for 2yrs.
+I'm a student and programmer from Turkey. I'm mainly focused on web development. I am experienced in hosting management
 
 ## Contact Me
-<p><a href="https://eness.me" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> <a href="instagram.com/enesdinc.tr" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
+<p><a href="https://eness.me" target="_blank"><img src="https://img.shields.io/badge/Website-%23FF7139.svg?&style=flat-square&logo=Firefox&logoColor=white" alt="Website"></a> <a href="instagram.com/enesspecter" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a> </p>
 
 ## Skills
 
